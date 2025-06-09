@@ -38,7 +38,7 @@ python ast_to_uxml.py
 
 csharp
 ```bash
-python ast_to_csharp.py
+python ast_to_csharp.py [ComponentName]
 ```
 
 
