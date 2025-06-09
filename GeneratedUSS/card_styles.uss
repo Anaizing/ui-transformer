@@ -1,0 +1,103 @@
+:root {
+    --primary-color: #1976d2;
+    --secondary-color: #9c27b0;
+    --error-color: #d32f2f;
+    --info-color: #0288d1;
+    --success-color: #2e7d32;
+    --warning-color: #ed6c02;
+    --text-color-light: #ffffff;
+    --text-color-dark: rgba(0, 0, 0, 0.87);
+    --disabled-opacity: 0.38;
+    --spacing-1: 4px;
+    --spacing-2: 8px;
+    --spacing-3: 12px;
+    --spacing-4: 16px;
+    --font-size-small: 13px;
+    --font-size-medium: 14px;
+    --font-size-large: 15px;
+}
+
+
+/* USS Rules for Card Component */
+
+.MuiCard-root {
+    -unity-font-definition: var(--unity-font-regular);
+    -unity-font-style: normal;
+    -unity-text-align: middle-center;
+    border-radius: 4px;
+    cursor: pointer;
+    transition-property: background-color, border-color, color, opacity, shadow-color, shadow-offset, shadow-blur, shadow-width;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-out;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-width: 64px;
+    min-height: 36px;
+}
+
+/* Card-WordoftheDaybe•nev•o•lentadjectivewellmeaningandkindly."abenevolentsmile"LearnMore-RenderedOnly-1-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-WordoftheDaybe•nev•o•lentadjectivewellmeaningandkindly."abenevolentsmile"LearnMore-RenderedOnly-2-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-outlined.MuiPaper-rounded {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-RShrimpandChorizoPaellaSeptember14,2016Thisimpressivepaellaisaperfectpartydishandafunmealtocooktogetherwithyourguests.Add1cupoffrozenpeasalongwiththemussels,ifyoulike.-RenderedOnly-3-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-LizardLizardsareawidespreadgroupofsquamatereptiles,withover6,000species,rangingacrossallcontinentsexceptAntarcticaShareLearnMore-RenderedOnly-4-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-LizardLizardsareawidespreadgroupofsquamatereptiles,withover6,000species,rangingacrossallcontinentsexceptAntarcticaShareLearnMore-RenderedOnly-5-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-LizardLizardsareawidespreadgroupofsquamatereptiles,withover6,000species,rangingacrossallcontinentsexceptAntarctica-RenderedOnly-6-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-LizardLizardsareawidespreadgroupofsquamatereptiles,withover6,000species,rangingacrossallcontinentsexceptAntarcticaShare-RenderedOnly-7-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-LiveFromSpaceMacMiller-RenderedOnly-8-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-PlantsPlantsareessentialforalllife.-RenderedOnly-9-1 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-AnimalsAnimalsareapartofnature.-RenderedOnly-9-2 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
+
+/* Card-HumansHumansdependonplantsandanimalsforsurvival.-RenderedOnly-9-3 */
+.MuiCard-root.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1 {
+    padding: var(--spacing-2) var(--spacing-2);
+    -unity-font-size: var(--font-size-medium);
+}
