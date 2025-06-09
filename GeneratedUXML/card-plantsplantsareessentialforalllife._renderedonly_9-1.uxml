@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement class="MuiCard-root MuiPaper-elevation MuiPaper-elevation1 MuiPaper-root MuiPaper-rounded css-4o7lu9" name="Card-PlantsPlantsareessentialforalllife.-RenderedOnly-9-1">
+        <ui:Label text="PlantsPlants are essential for all life." name="inner-text-label"/>
+    </ui:VisualElement>
+</ui:UXML>

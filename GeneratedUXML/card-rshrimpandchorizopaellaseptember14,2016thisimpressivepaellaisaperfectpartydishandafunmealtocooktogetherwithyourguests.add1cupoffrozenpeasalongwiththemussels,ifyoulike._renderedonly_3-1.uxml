@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement class="MuiCard-root MuiPaper-elevation MuiPaper-elevation1 MuiPaper-root MuiPaper-rounded css-ql1owf" name="Card-RShrimpandChorizoPaellaSeptember14,2016Thisimpressivepaellaisaperfectpartydishandafunmealtocooktogetherwithyourguests.Add1cupoffrozenpeasalongwiththemussels,ifyoulike.-RenderedOnly-3-1">
+        <ui:Label text="RShrimp and Chorizo PaellaSeptember 14, 2016This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like." name="inner-text-label"/>
+    </ui:VisualElement>
+</ui:UXML>

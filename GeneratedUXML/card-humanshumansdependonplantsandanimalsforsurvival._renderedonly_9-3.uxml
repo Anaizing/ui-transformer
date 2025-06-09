@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement class="MuiCard-root MuiPaper-elevation MuiPaper-elevation1 MuiPaper-root MuiPaper-rounded css-4o7lu9" name="Card-HumansHumansdependonplantsandanimalsforsurvival.-RenderedOnly-9-3">
+        <ui:Label text="HumansHumans depend on plants and animals for survival." name="inner-text-label"/>
+    </ui:VisualElement>
+</ui:UXML>

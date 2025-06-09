@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement class="MuiCard-root MuiPaper-elevation MuiPaper-elevation1 MuiPaper-root MuiPaper-rounded css-bdkwmv" name="Card-LiveFromSpaceMacMiller-RenderedOnly-8-1">
+        <ui:Label text="Live From SpaceMac Miller" name="inner-text-label"/>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement class="MuiCard-root MuiPaper-elevation MuiPaper-elevation1 MuiPaper-root MuiPaper-rounded css-ql1owf" name="Card-LizardLizardsareawidespreadgroupofsquamatereptiles,withover6,000species,rangingacrossallcontinentsexceptAntarctica-RenderedOnly-6-1">
+        <ui:Label text="LizardLizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica" name="inner-text-label"/>
+    </ui:VisualElement>
+</ui:UXML>
