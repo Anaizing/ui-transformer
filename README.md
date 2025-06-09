@@ -28,12 +28,12 @@ run each ast_[...]
 to generate uss
 
 ```bash
-python ast_to_uss.py
+python ast_to_uss.py [ComponentName]
 ```
 
 uxml
 ```bash
-python ast_to_uxml.py
+python ast_to_uxml.py [ComponentName]
 ```
 
 csharp
