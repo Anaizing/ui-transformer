@@ -1,4 +1,0 @@
-<?xml version="1.0" ?>
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
-    <ui:Button text="Send" class="Mui-disabled MuiButton-colorPrimary MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeMedium MuiButton-loading MuiButton-loadingPositionEnd MuiButton-root MuiButton-sizeMedium MuiButtonBase-root css-kj4nbz" name="Send"/>
-</ui:UXML>

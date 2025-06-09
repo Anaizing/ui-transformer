@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Button text="Error" class="MuiButton-colorError MuiButton-outlined MuiButton-outlinedError MuiButton-outlinedSizeMedium MuiButton-root MuiButton-sizeMedium MuiButtonBase-root css-pgnhzr" name="Button-Error-RenderedOnly-6-3"/>
+</ui:UXML>

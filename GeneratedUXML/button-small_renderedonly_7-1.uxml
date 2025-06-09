@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Button text="Small" class="MuiButton-colorPrimary MuiButton-root MuiButton-sizeSmall MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButtonBase-root css-xqis23" name="Button-Small-RenderedOnly-7-1"/>
+</ui:UXML>

@@ -21,7 +21,7 @@ pip install -r ./requirements.txt
 run main to create AST for component
 
 ```bash
-python main.py
+python docs_to_json_ast.py [ComponentName]
 ```
 
 run each ast_[...]

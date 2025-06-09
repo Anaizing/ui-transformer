@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Button text="Disabled" class="Mui-disabled MuiButton-colorPrimary MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeMedium MuiButton-root MuiButton-sizeMedium MuiButtonBase-root css-czxy0w" name="Button-Disabled-RenderedOnly-3-2"/>
+</ui:UXML>

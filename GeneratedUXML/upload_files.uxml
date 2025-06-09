@@ -1,4 +1,0 @@
-<?xml version="1.0" ?>
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
-    <ui:Button text="Upload files" class="MuiButton-colorPrimary MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeMedium MuiButton-root MuiButton-sizeMedium MuiButtonBase-root css-czxy0w" name="Upload-files"/>
-</ui:UXML>

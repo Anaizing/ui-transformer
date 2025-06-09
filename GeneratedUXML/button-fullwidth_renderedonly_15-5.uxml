@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Button text="Full width" class="Mui-disabled MuiButton-colorPrimary MuiButton-fullWidth MuiButton-loading MuiButton-loadingPositionEnd MuiButton-outlined MuiButton-outlinedPrimary MuiButton-outlinedSizeMedium MuiButton-root MuiButton-sizeMedium MuiButtonBase-root css-1nnv6s" name="Button-Fullwidth-RenderedOnly-15-5"/>
+</ui:UXML>

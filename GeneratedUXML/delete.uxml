@@ -1,4 +1,0 @@
-<?xml version="1.0" ?>
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
-    <ui:Button text="Delete" class="MuiButton-colorPrimary MuiButton-outlined MuiButton-outlinedPrimary MuiButton-outlinedSizeMedium MuiButton-root MuiButton-sizeMedium MuiButtonBase-root css-bkigrg" name="Delete"/>
-</ui:UXML>
